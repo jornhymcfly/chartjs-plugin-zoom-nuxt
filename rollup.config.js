@@ -28,7 +28,7 @@ module.exports = [
 			indent: false,
 			globals: {
 				'chart.js': 'Chart',
-				hammerjs: 'Hammer'
+				'ng-hammerjs': 'Hammer'
 			}
 		},
 		plugins: [
@@ -49,7 +49,7 @@ module.exports = [
 			indent: false,
 			globals: {
 				'chart.js': 'Chart',
-				hammerjs: 'Hammer'
+				'ng-hammerjs': 'Hammer'
 			}
 		},
 		plugins: [

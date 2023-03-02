@@ -1,7 +1,7 @@
 'use strict';
 
 import Chart from 'chart.js';
-import Hammer from 'hammerjs';
+import Hammer from 'ng-hammerjs';
 
 var helpers = Chart.helpers;
 
